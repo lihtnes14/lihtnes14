@@ -1,16 +1,19 @@
-### 👋 Hey, I'm Senthilvelaa Palani
+### 👋 Hi, I'm Senthilvelaa Palani
 
-I'm a developer passionate about building intelligent systems at the intersection of AI and real-world applications.
+I'm passionate about building intelligent applications with **Large Language Models (LLMs)** and **AI agents** that can reason, interact, and solve real-world problems.
 
-🔧 Currently focusing on:
-- 🤖 Machine Learning & Deep Learning (TensorFlow, PyTorch, LangChain)
-- 🌐 Full-Stack Development with the MERN stack (MongoDB, Express, React, Node.js)
-- 📈 Algorithms and Data Structures in Java
-- 🧠 Agentic AI, RAG pipelines, and LLM integration
+🧠 My current interests:
+- 🔗 LLM-powered applications using LangChain, Gemini, and Agentic frameworks
+- 🤖 AI agents that combine perception, reasoning, and memory
+- 🔍 Retrieval-Augmented Generation (RAG), vector databases, and prompt engineering
 
-🧑‍💻 Tech I'm hands-on with:
-Python • JavaScript • Java • FastAPI • Streamlit • GCP • Docker • ChromaDB • HuggingFace
+💻 Also learning:
+- 🌐 Full-stack web development with the **MERN stack**
+- 📘 Algorithms and data structures in **Java**
 
-🚀 Always learning, building, and experimenting.
+🛠️ Technologies I work with:
+Python • JavaScript • LangChain • TensorFlow • FastAPI • Streamlit • ChromaDB • HuggingFace • Docker • GCP
 
-📫 Reach me at: [palani.senthilvelaa@gmail.com](mailto:palani.senthilvelaa@gmail.com)
+📫 Let's connect: [palani.senthilvelaa@gmail.com](mailto:palani.senthilvelaa@gmail.com)
+
+⚡ Always learning. Always building. Always curious.
