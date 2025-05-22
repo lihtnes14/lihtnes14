@@ -1,24 +1,16 @@
 ### 👋 Hey, I'm Senthilvelaa Palani
 
-I'm a Mechanical Engineering undergrad @ VIT Chennai blending **AI with real-world engineering** to build meaningful, intelligent applications. 
+I'm a developer passionate about building intelligent systems at the intersection of AI and real-world applications.
 
-🚀 I specialize in:
-- 🤖 Deep Learning (TensorFlow, Keras, PyTorch)
-- 🔍 Retrieval-Augmented Generation (RAG), LangChain, Gemini
-- 🛠️ AI for Mechanical Engineering (FBD analyzers, APDL automation)
-- 🌐 FastAPI, Streamlit, Docker, GCP
+🔧 Currently focusing on:
+- 🤖 Machine Learning & Deep Learning (TensorFlow, PyTorch, LangChain)
+- 🌐 Full-Stack Development with the MERN stack (MongoDB, Express, React, Node.js)
+- 📈 Algorithms and Data Structures in Java
+- 🧠 Agentic AI, RAG pipelines, and LLM integration
 
-🧠 Recent Projects:
-- 🎵 AI Music Generator with Meta's AudioCraft (FastAPI + PyTorch)
-- 📄 DocWhiz: Chat with multiple PDFs using Gemini + LangChain
-- 🧠 ECG Signal Classifier using 1D CNN – 98% accuracy
-- 🤖 CAPTCHA Solver using CNN + LSTM
+🧑‍💻 Tech I'm hands-on with:
+Python • JavaScript • Java • FastAPI • Streamlit • GCP • Docker • ChromaDB • HuggingFace
 
-🔭 Currently:
-- Building agentic AI apps with LangGraph and LLMs
-- Exploring the future of ML in predictive maintenance and healthcare
-- Looking for **internship or research opportunities in AI/ML**
+🚀 Always learning, building, and experimenting.
 
-📫 Let’s connect: [palani.senthilvelaa@gmail.com](mailto:palani.senthilvelaa@gmail.com)
-
-🛠️ GitHub is where I build, break, and learn — welcome to the chaos 🚀
+📫 Reach me at: [palani.senthilvelaa@gmail.com](mailto:palani.senthilvelaa@gmail.com)
